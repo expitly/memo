@@ -2,11 +2,11 @@
 
 이 글에서 Test한 사항은 Multi Region 구성이다.
 
-![](C:\my\work\memo\이슈\images\aws1.JPG)
+![](images/aws1.JPG)
 
 테스트에서는 Route 53 인스턴스를 활용하여 서울Region의 EC2와 싱가포르Region의 EC2를 ACTIVE-STANDBY 구조로 만들어 보았다.
 
-![](C:\my\work\memo\이슈\images\aws2.png)
+![](images/aws2.png)
 
 * 초록색 부분은 개인서버정보 이므로 안전하게 삭제하였다.
 
